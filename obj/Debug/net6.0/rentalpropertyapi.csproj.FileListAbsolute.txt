@@ -1,0 +1,8 @@
+C:\Users\asus\source\repos\rentalpropertyapi\rentalpropertyapi\obj\Debug\net6.0\rentalpropertyapi.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\rentalpropertyapi\rentalpropertyapi\obj\Debug\net6.0\rentalpropertyapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\rentalpropertyapi\rentalpropertyapi\obj\Debug\net6.0\rentalpropertyapi.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\rentalpropertyapi\rentalpropertyapi\obj\Debug\net6.0\rentalpropertyapi.AssemblyInfo.cs
+C:\Users\asus\source\repos\rentalpropertyapi\rentalpropertyapi\obj\Debug\net6.0\rentalpropertyapi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\rentalpropertyapi\rentalpropertyapi\obj\Debug\net6.0\rentalpropertyapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asus\source\repos\rentalpropertyapi\rentalpropertyapi\obj\Debug\net6.0\rentalpropertyapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\source\repos\rentalpropertyapi\rentalpropertyapi\obj\Debug\net6.0\rentalpropertyapi.sourcelink.json
